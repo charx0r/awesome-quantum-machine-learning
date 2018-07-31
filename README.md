@@ -1,6 +1,6 @@
 # Awesome Quantum Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome quantum machine learning algorithms,study materials,libraries and software (by language).
+A curated list of awesome quantum machine learning algorithms, study materials, libraries and software (by language).
 
 [![Main Architecture](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/Quantum%20Machine%20complete%20Architecture.png)](https://arxiv.org/pdf/1611.09347.pdf)
 
@@ -76,7 +76,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Elephant Herding Optimization](#quantumalgorithmsml-qeho)
     - [Quantum-behaved Particle Swarm Optimization](#quantumalgorithmsml-qpso)
     - [Quantum Annealing Expectation-Maximization](#quantumalgorithmsml-qaem)
-- [QAUNTUM NEURAL NETWORK](#qnn)
+- [QUANTUM NEURAL NETWORK](#qnn)
     - [Quantum perceptrons](#qnn-perceptron)
     - [Qurons](#qnn-qurons)
     - [Quantum Auto Encoder](#qnn-autoencoder)
@@ -92,7 +92,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [SAL](#qnn-sal)
     - [Quantum Hamiltonian Learning](#qnn-hamiltonianlearning)
     - [Compressed Quantum Hamiltonian Learning](#qnn-compressedhamiltonianlearning)
-- [QAUNTUM STATISTICAL DATA ANALYSIS](#quantumstatistics)
+- [QUANTUM STATISTICAL DATA ANALYSIS](#quantumstatistics)
 	- [Quantum Probability Theory](#quantumstatistics-probabilitytheory)
     - [Kolmogorovian Theory](#quantumstatistics-kolmogorovian)
     - [Quantum Measurement Problem](#quantumstatistics-measurementproblem)
@@ -148,11 +148,11 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Way of Linear Regression](#quantumstatistics-quantumlinearregression)
     - [Asymptotic Properties of Quantum](#quantumstatistics-quantumasymptoticproperties)
     - [Outlier Detection in Quantum Concepts](#quantumstatistics-quantumoutlier)
-- [QAUNTUM ARTIFICIAL INTELLIGENCE](#quantumai)
+- [QUANTUM ARTIFICIAL INTELLIGENCE](#quantumai)
 	- [Heuristic Quantum Mechanics](#quantumai-heuristicmechanics)
     - [Consistent Quantum Reasoning](#quantumai-quantumreasoning)
     - [Quantum Reinforcement Learning](#quantumai-reinforcementlearning)
-- [QAUNTUM COMPUTER VISION](#quantumcv)
+- [QUANTUM COMPUTER VISION](#quantumcv)
 - [QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES](#qpl)
     - [ALL](#qpl-all)
 - [QUANTUM ALGORITHMS SOURCE CODES , GITHUBS](#quantumsourcecode)
