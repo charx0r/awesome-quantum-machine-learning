@@ -656,12 +656,12 @@ A curated list of awesome quantum machine learning algorithms, study materials, 
 * [fathom computing](https://www.fathomcomputing.com/) -  A new concept to train the ai in a processor using light and quantum based concepts. soon products will be launch
 * [Alibaba Quantum Computing Cloud Service](https://www.alibabacloud.com/press-room/alibaba-cloud-and-cas-launch-one-of-the-worlds-most) -  Cloud Service to access 11 Bit Quantum Computing Processor
 * [Atomistic Machine Learning Project](https://github.com/atomistic-machine-learning) - Seems something Interesting with Deep Tensor Network for Quantum Chemistry Applications
-* [Quantum Tensorflow](https://github.com/krishnakumarsekar/) - Yet to come soon
-* [Quantum Spark](https://github.com/krishnakumarsekar/) - Yet to come soon
-* [Quatum Map Reduce](https://github.com/krishnakumarsekar/) - Yet to come soon
-* [Quantum Database](https://github.com/krishnakumarsekar/) - Yet to come soon
-* [Quantum Server](https://github.com/krishnakumarsekar/) - Yet to come soon
-* [Quantum Data Analytics](https://github.com/krishnakumarsekar/) - Yet to come soon
+* [Quantum Tensorflow](https://qbnets.wordpress.com/2017/12/03/you-are-invited-to-the-wedding-of-quantum-computing-and-tensorflow/) - Quantum Tensor Network
+* [Quantum Spark](https://github.com/#) - Yet to come soon
+* [Quatum Map Reduce](https://github.com/#) - Yet to come soon
+* [Quantum Database](https://github.com/#) - Yet to come soon
+* [Quantum Server](https://github.com/#) - Yet to come soon
+* [Quantum Data Analytics](https://github.com/#) - Yet to come soon
                                                                    
 
 <a name="quantumhottopics"></a>
@@ -949,7 +949,7 @@ A curated list of awesome quantum machine learning algorithms, study materials, 
 
 ### License
 
-[![License](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/LICENCE)
+[![License](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://github.com/charx0r/awesome-quantum-machine-learning/blob/master/LICENCE)
 
 ### Dedicated Opensources
 
