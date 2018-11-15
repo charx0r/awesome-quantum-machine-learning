@@ -244,9 +244,9 @@ A curated list of awesome quantum machine learning algorithms, study materials, 
 <a name="introduction-why-quantum-machine-learning"></a>
 #### Why Quantum Machine Learning?
                  
-##### Machine Learning(ML) is just a term in recent days but the work effort start from 18th century.
+##### Machine Learning(ML) is a term which is well known in recent years but the work effort start from 18th century.
 
-##### What is  Machine Learning ? , In Simple word the answer is making the computer or application to learn themselves . So its totally related with computing fields like computer science and IT ? ,The answer is not true . ML is a common platform which is mingled in all the aspects of the life from agriculture to mechanics . Computing is a key component to use ML easily and effectively . To be more clear ,Who is the mother of ML ?, As no option Mathematics is the mother of ML . The world tremendous invention complex numbers given birth to this field . Applying mathematics to the real life problem always gives a solution . From Neural Network to the complex DNA is running under some specific mathematical formulas and theorems.
+##### What is  Machine Learning ? , Put simply, it is making a computer or an application to learn by themselves over time. So its totally related with computing fields like computer science and IT ? ,The answer is not true . ML is a common platform which is mingled in all the aspects of the life from agriculture to mechanics . Computing is a key component to use ML easily and effectively . To be more clear ,Who is the mother of ML ?, As no option Mathematics is the mother of ML . The world tremendous invention complex numbers given birth to this field . Applying mathematics to the real life problem always gives a solution . From Neural Network to the complex DNA is running under some specific mathematical formulas and theorems.
 
 ##### As computing technology growing faster and faster mathematics entered into this field and makes the solution via computing to the real world . In the computing technology timeline once a certain achievements reached peoples interested to use advanced mathematical ideas such as complex numbers ,eigen etc and its the kick start for the ML field such as Artificial Neural Network ,DNA Computing etc.
 
@@ -286,7 +286,7 @@ A curated list of awesome quantum machine learning algorithms, study materials, 
 <a name="basics-what-quantum-computing"></a>
 #### What is Quantum Computing?                 
                  
-##### A way of parallel execution of multiple processess in a same time using qubit ,It reduces the computation time and size of the processor probably in neuro size 
+##### Classical computers are built on top of bits which are the core blocks. A bit can be either 0 or 1 essentially can be only in one of the two states. The bits can be manipulated by boolean operators called OR, AND, NOT. Variables likes int, float, string are combination of multiple bits and various complex operations are a combincation of the above operators. Unlike classical computers quantum computers are built using qubits which are its core building blocks. Similar to bits, qubits also have two states 0 and 1. However quantum mechanics lets the qubits to be superimposed which let them be many other states apart from 0, 1.
 
 * [WIKIPEDIA](https://en.wikipedia.org/wiki/Quantum_computing) - Basic History and outline
 * [WEBOPEDIA](http://www.webopedia.com/TERM/Q/quantum_computing.html). - A survey
